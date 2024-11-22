@@ -1,0 +1,6 @@
+filename	allCHitsWithScore	cloneFraction
+lun_lcp2_tum_bulk_1_1_2.clonotypes.IGH.txt	IGHA	0.36277782300741146
+lun_lcp2_tum_bulk_1_1_2.clonotypes.IGH.txt	IGHD	0.003989253439713423
+lun_lcp2_tum_bulk_1_1_2.clonotypes.IGH.txt	IGHE	0.0004884800130261337
+lun_lcp2_tum_bulk_1_1_2.clonotypes.IGH.txt	IGHG	0.4774077993975483
+lun_lcp2_tum_bulk_1_1_2.clonotypes.IGH.txt	IGHM	0.1553366441423095

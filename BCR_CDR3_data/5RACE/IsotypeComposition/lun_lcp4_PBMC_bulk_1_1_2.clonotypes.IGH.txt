@@ -1,0 +1,6 @@
+filename	allCHitsWithScore	cloneFraction
+lun_lcp4_PBMC_bulk_1_1_2.clonotypes.IGH.txt	IGHA	0.47131856924991083
+lun_lcp4_PBMC_bulk_1_1_2.clonotypes.IGH.txt	IGHD	0.01650433659864737
+lun_lcp4_PBMC_bulk_1_1_2.clonotypes.IGH.txt	IGHE	3.7424799543417455e-05
+lun_lcp4_PBMC_bulk_1_1_2.clonotypes.IGH.txt	IGHG	0.3829492613280172
+lun_lcp4_PBMC_bulk_1_1_2.clonotypes.IGH.txt	IGHM	0.12919040802387458

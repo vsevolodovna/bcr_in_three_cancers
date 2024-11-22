@@ -1,0 +1,6 @@
+filename	allCHitsWithScore	cloneFraction
+mel_mp8_LN_bulk_1_2_2.clonotypes.IGH.txt	IGHA	0.6421996583791898
+mel_mp8_LN_bulk_1_2_2.clonotypes.IGH.txt	IGHD	0.0028942873410514307
+mel_mp8_LN_bulk_1_2_2.clonotypes.IGH.txt	IGHE	0.00023723666729929773
+mel_mp8_LN_bulk_1_2_2.clonotypes.IGH.txt	IGHG	0.3188935281837137
+mel_mp8_LN_bulk_1_2_2.clonotypes.IGH.txt	IGHM	0.03572784209527456

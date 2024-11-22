@@ -1,0 +1,15 @@
+##!/bin/bash
+for can in $(ls ConvertedToVDJ/*bulk*IGH*|cut -f2 -d"/"|cut -f1 -d"_"|sort|uniq)
+do
+
+for pat in $(ls ConvertedToVDJ/"$can"*bulk*IGH*|cut -f2 -d"_"|sort|uniq)
+do
+
+for  org in $(ls ConvertedToVDJ/"$can"*"$pat"*bulk*IGH*|cut -f3 -d"_"|sort|uniq)
+do
+
+for spid in $(ls ConvertedToVDJ/"$can"*"$pat"*"$org"*bulk*"${iz}.txt"|cut -f5-6 -d"_"|sort|uniq)
+
+done
+done
+done

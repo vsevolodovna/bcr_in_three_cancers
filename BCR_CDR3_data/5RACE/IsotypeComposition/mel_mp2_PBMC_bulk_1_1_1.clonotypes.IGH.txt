@@ -1,0 +1,6 @@
+filename	allCHitsWithScore	cloneFraction
+mel_mp2_PBMC_bulk_1_1_1.clonotypes.IGH.txt	IGHA	0.5297536340316257
+mel_mp2_PBMC_bulk_1_1_1.clonotypes.IGH.txt	IGHD	0.0184507268063273
+mel_mp2_PBMC_bulk_1_1_1.clonotypes.IGH.txt	IGHE	0.0003607310816588285
+mel_mp2_PBMC_bulk_1_1_1.clonotypes.IGH.txt	IGHG	0.15510100470286578
+mel_mp2_PBMC_bulk_1_1_1.clonotypes.IGH.txt	IGHM	0.29633390337758175

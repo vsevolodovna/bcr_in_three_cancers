@@ -1,0 +1,3 @@
+count	freq	cdr3nt	cdr3aa	v	d	j	VEnd	DStart	DEnd	JStart	base.cdr3length	aaprop.strength	base.ndnsize	base.insertsize	aaprop.hydropathy	aaprop.charge	aaprop.polarity	aaprop.strength	aaprop.cdr3contact	aaprop.kf1	aaprop.kf2	aaprop.kf3	aaprop.kf4	aaprop.kf5	aaprop.kf6	aaprop.kf7	aaprop.kf8	aaprop.kf9	aaprop.kf10
+1	0.5	TGTGCGAAAGGGACGGCGACTACGTGGACCGCATTTGACTACTGG	TATTWTA	IGHV3-23	IGHD4-17	IGHJ4	9	12	24	33	45	1.0	23	10	-0.10000014	0.0	4.0	1.0	NaN	-1.78	-4.04	2.18	0.40999994	-3.4199998	-0.15000004	0.07999997	-5.1600003	-4.12	-0.79999995
+1	0.5	TGTGCGAGACCACTAAACAGAATCGGGGCTTTTGATATCTGG	PLNRIGA	IGHV5-10-1	IGHD1-26	IGHJ3	9	10	17	27	42	2.0	17	9	0.099999785	1.0	2.0	2.0	NaN	1.55	-2.92	0.44999993	-0.36999995	-2.56	-2.5300002	2.3799999	0.5700001	1.7300001	-1.95

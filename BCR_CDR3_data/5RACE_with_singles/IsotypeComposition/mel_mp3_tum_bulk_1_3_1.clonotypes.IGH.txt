@@ -1,0 +1,6 @@
+filename	allCHitsWithScore	cloneFraction
+mel_mp3_tum_bulk_1_3_1.clonotypes.IGH.txt	IGHA	0.06165971256374573
+mel_mp3_tum_bulk_1_3_1.clonotypes.IGH.txt	IGHD	7.726781023025808e-05
+mel_mp3_tum_bulk_1_3_1.clonotypes.IGH.txt	IGHE	0.002395302117138001
+mel_mp3_tum_bulk_1_3_1.clonotypes.IGH.txt	IGHG	0.5780404883325464
+mel_mp3_tum_bulk_1_3_1.clonotypes.IGH.txt	IGHM	0.357363622314944

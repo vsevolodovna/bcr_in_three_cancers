@@ -1,0 +1,2 @@
+file_name	sample_id	..filter..
+test.col_ccp2_LN_bulk_1_1_pooled.clonotypes.IGH.txt	col_ccp2_LN_bulk_1_1_pooled.clonotypes.IGH	annot:hydropathy.avg,kf4

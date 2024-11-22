@@ -1,0 +1,4 @@
+filename	allCHitsWithScore	cloneFraction
+col_ccp2_LN_bulk_2_1_1.clonotypes.IGH.txt	IGHA	0.6715553840216116
+col_ccp2_LN_bulk_2_1_1.clonotypes.IGH.txt	IGHG	0.2898494789656504
+col_ccp2_LN_bulk_2_1_1.clonotypes.IGH.txt	IGHM	0.037823234272481694

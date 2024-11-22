@@ -1,0 +1,5 @@
+filename	allCHitsWithScore	cloneFraction
+mel_mp9_LN_bulk_1_4_1.clonotypes.IGH.txt	IGHA	0.3458512272342609
+mel_mp9_LN_bulk_1_4_1.clonotypes.IGH.txt	IGHD	0.0019435127425472562
+mel_mp9_LN_bulk_1_4_1.clonotypes.IGH.txt	IGHG	0.5107990345130312
+mel_mp9_LN_bulk_1_4_1.clonotypes.IGH.txt	IGHM	0.14140622551017226

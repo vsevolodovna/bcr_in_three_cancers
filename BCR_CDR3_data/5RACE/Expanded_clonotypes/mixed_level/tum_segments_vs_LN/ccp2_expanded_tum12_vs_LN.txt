@@ -1,0 +1,1 @@
+"rn"	"logFC"	"logCPM"	"PValue"	"FDR"
