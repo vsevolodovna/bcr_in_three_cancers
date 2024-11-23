@@ -6,6 +6,7 @@ Please be aware that the code is given as a working example for a specific set o
 The following are the code used to produce figures and the corresponding data:
 
 Fig 1B replicates Scatterplots.ipynb, BCR_CDR3_data/5RACE/All_data_filtered/
+
 Fig 1B fragments Scatterplots.ipynb, BCR_CDR3_data/5RACE/Pooled_Replicas/mixcr/
 Fig 2A Pipelines/Correlation_plot_attempt.ipynb, BCR_CDR3_data/5RACE/Pooled_Samples_aa/mixcr/
 Fig 2B bulk_vs_PCsort.ipynb, PwDistances/ (calculated from BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Replicas/VDJ/)
