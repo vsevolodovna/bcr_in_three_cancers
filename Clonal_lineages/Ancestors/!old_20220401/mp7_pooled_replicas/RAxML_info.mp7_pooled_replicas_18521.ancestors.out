@@ -1,0 +1,128 @@
+
+
+IMPORTANT WARNING: Sequences 1030343 and 1067721 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030343 and 1056442 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1071350 and 1061472 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1038878 and 1053661 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1056990 and 1022648 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1056990 and 1019591 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021743 and 1044123 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1072127 and 1047604 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1051333 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1060424 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1055310 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1014097 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1063654 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1041372 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1060871 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065666 and 1061512 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1070743 and 1043344 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1075924 and 1000126 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1075924 and 1002063 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1075924 and 1037774 are exactly identical
+
+IMPORTANT WARNING
+Found 20 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas//mp7_pooled_replicas_18521_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 23 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.60%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 23
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas//mp7_pooled_replicas_18521_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas//RAxML_bestTree.mp7_pooled_replicas_18521.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/ -n mp7_pooled_replicas_18521.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_marginalAncestralProbabilities.mp7_pooled_replicas_18521.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_marginalAncestralStates.mp7_pooled_replicas_18521.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_nodeLabelledRootedTree.mp7_pooled_replicas_18521.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.089005
+

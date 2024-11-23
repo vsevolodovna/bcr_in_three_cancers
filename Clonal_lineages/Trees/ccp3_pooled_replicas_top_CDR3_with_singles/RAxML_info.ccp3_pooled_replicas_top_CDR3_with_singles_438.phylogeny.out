@@ -1,0 +1,196 @@
+
+
+IMPORTANT WARNING: Sequences 1024005 and 1014770 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000608 and 1017358 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015101 and 1005849 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015101 and 1009350 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007671 and 1007926 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022566 and 1020000 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022566 and 1011816 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000063 and 1016571 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000063 and 1014091 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007949 and 1002532 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007949 and 1005980 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012254 and 1022758 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012254 and 1007404 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012254 and 1002548 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012254 and 1011616 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001198 and 1001547 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008487 and 1001597 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011590 and 1016506 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007426 and 1016653 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014525 and 1010235 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018011 and 1022785 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018011 and 1020525 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015291 and 1004801 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002932 and 1004486 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002932 and 1010088 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002384 and 1000410 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003439 and 1013052 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008291 and 1002037 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008291 and 1011213 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008291 and 1005469 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020087 and 1012262 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020087 and 1017545 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015538 and 1018704 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015538 and 1012128 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015538 and 1023503 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015538 and 1000287 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020266 and 1020924 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020266 and 1021230 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020266 and 1005524 are exactly identical
+
+IMPORTANT WARNING
+Found 39 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp3_pooled_replicas_top_CDR3_with_singles//ccp3_pooled_replicas_top_CDR3_with_singles_438_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 24 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.44%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 24
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp3_pooled_replicas_top_CDR3_with_singles//ccp3_pooled_replicas_top_CDR3_with_singles_438_aln.fasta -n ccp3_pooled_replicas_top_CDR3_with_singles_438.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp3_pooled_replicas_top_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.191 0.175 0.356 0.279 
+
+Inference[0]: Time 1.622234 GAMMA-based likelihood -265.780455, best rearrangement setting 20
+alpha[0]: 1.038826 rates[0] ac ag at cg ct gt: 3.009761 4.062864 3.436272 5.167539 12.044532 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -265.649451 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp3_pooled_replicas_top_CDR3_with_singles/RAxML_result.ccp3_pooled_replicas_top_CDR3_with_singles_438.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -265.649451 .... 
+
+Final GAMMA-based Score of best tree -265.649445
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp3_pooled_replicas_top_CDR3_with_singles/RAxML_info.ccp3_pooled_replicas_top_CDR3_with_singles_438.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp3_pooled_replicas_top_CDR3_with_singles/RAxML_bestTree.ccp3_pooled_replicas_top_CDR3_with_singles_438.phylogeny.out
+
+Overall execution time: 2.214863 secs or 0.000615 hours or 0.000026 days
+

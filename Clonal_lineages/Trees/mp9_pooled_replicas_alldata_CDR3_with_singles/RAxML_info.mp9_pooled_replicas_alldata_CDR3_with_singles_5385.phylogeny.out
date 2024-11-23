@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences 1010028 and 1006538 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024784 and 1064950 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024784 and 1005035 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002819 and 1056184 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002819 and 1024053 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1078170 and 1049402 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1078170 and 1047945 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010085 and 1021781 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010085 and 1081569 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012637 and 1002420 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043329 and 1049275 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043329 and 1050742 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043329 and 1010035 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3_with_singles//mp9_pooled_replicas_alldata_CDR3_with_singles_5385_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 23 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.76%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 23
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3_with_singles//mp9_pooled_replicas_alldata_CDR3_with_singles_5385_aln.fasta -n mp9_pooled_replicas_alldata_CDR3_with_singles_5385.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.211 0.270 0.247 0.272 
+
+Inference[0]: Time 0.186615 GAMMA-based likelihood -167.474399, best rearrangement setting 5
+alpha[0]: 1.186021 rates[0] ac ag at cg ct gt: 13.593351 10.327418 5.184890 0.000100 4.459870 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -167.474289 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_result.mp9_pooled_replicas_alldata_CDR3_with_singles_5385.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -167.474289 .... 
+
+Final GAMMA-based Score of best tree -167.474289
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_info.mp9_pooled_replicas_alldata_CDR3_with_singles_5385.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_bestTree.mp9_pooled_replicas_alldata_CDR3_with_singles_5385.phylogeny.out
+
+Overall execution time: 0.300980 secs or 0.000084 hours or 0.000003 days
+

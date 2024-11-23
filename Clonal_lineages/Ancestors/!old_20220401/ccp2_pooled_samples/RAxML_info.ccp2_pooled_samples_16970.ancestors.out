@@ -1,0 +1,119 @@
+
+
+IMPORTANT WARNING: Sequences 1046697 and 1051391 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1046697 and 1014426 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023457 and 1023647 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064671 and 1057635 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1047484 and 1053057 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030043 and 1011183 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036882 and 1044461 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036882 and 1048444 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036882 and 1057722 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1053551 and 1005609 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019947 and 1039398 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027318 and 1035611 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027318 and 1018341 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027159 and 1061658 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027159 and 1029412 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027277 and 1002363 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027277 and 1046440 are exactly identical
+
+IMPORTANT WARNING
+Found 17 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_16970_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 49 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.91%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 49
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_16970_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples//RAxML_bestTree.ccp2_pooled_samples_16970.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/ -n ccp2_pooled_samples_16970.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralProbabilities.ccp2_pooled_samples_16970.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralStates.ccp2_pooled_samples_16970.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_nodeLabelledRootedTree.ccp2_pooled_samples_16970.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.210405
+

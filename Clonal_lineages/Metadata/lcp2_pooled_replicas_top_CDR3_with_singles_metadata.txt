@@ -1,0 +1,5 @@
+path	basename	cancer	patient	organ	sample
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Top_for_patient/Pooled_Replicas/mixcr/lun_lcp2_norm_bulk_1_1_top158.clonotypes.IGH.txt	lun_lcp2_norm_bulk_1_1_top158.clonotypes.IGH.txt	lun	lcp2	norm	norm11
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Top_for_patient/Pooled_Replicas/mixcr/lun_lcp2_norm_bulk_1_2_top158.clonotypes.IGH.txt	lun_lcp2_norm_bulk_1_2_top158.clonotypes.IGH.txt	lun	lcp2	norm	norm12
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Top_for_patient/Pooled_Replicas/mixcr/lun_lcp2_tum_bulk_1_1_top158.clonotypes.IGH.txt	lun_lcp2_tum_bulk_1_1_top158.clonotypes.IGH.txt	lun	lcp2	tum	tum11
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Top_for_patient/Pooled_Replicas/mixcr/lun_lcp2_tum_bulk_1_2_top158.clonotypes.IGH.txt	lun_lcp2_tum_bulk_1_2_top158.clonotypes.IGH.txt	lun	lcp2	tum	tum12

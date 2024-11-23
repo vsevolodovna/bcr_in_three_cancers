@@ -1,0 +1,112 @@
+
+
+IMPORTANT WARNING: Sequences 1018183 and 1082386 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018183 and 1056464 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008164 and 1072246 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055356 and 1016417 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008992 and 1047970 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008992 and 1037627 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1057941 and 1034827 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1032654 and 1018225 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1079250 and 1091930 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1084459 and 1050835 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1084459 and 1017829 are exactly identical
+
+IMPORTANT WARNING
+Found 11 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_13745_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 26 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.67%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 26
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_13745_aln.fasta -n ccp6_pooled_replicas_alldata_CDR3_with_singles_13745.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.166 0.321 0.288 0.225 
+
+Inference[0]: Time 0.149705 GAMMA-based likelihood -202.628490, best rearrangement setting 5
+alpha[0]: 0.707376 rates[0] ac ag at cg ct gt: 5.822476 6.980669 1.896670 0.606081 11.504157 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -202.628481 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_result.ccp6_pooled_replicas_alldata_CDR3_with_singles_13745.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -202.628481 .... 
+
+Final GAMMA-based Score of best tree -202.628464
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_info.ccp6_pooled_replicas_alldata_CDR3_with_singles_13745.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_bestTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_13745.phylogeny.out
+
+Overall execution time: 0.245140 secs or 0.000068 hours or 0.000003 days
+

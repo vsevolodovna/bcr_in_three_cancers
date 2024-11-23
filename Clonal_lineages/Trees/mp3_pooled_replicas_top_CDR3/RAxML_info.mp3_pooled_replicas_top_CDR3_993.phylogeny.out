@@ -1,0 +1,102 @@
+
+
+IMPORTANT WARNING: Sequences 1000560 and 1000505 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001747 and 1001312 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001747 and 1000809 are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas_top_CDR3//mp3_pooled_replicas_top_CDR3_993_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 10 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 7.86%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 10
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas_top_CDR3//mp3_pooled_replicas_top_CDR3_993_aln.fasta -n mp3_pooled_replicas_top_CDR3_993.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas_top_CDR3/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.253 0.137 0.276 0.333 
+
+
+
+ BFGS required too many iterations, reverting to Brent-based optimizer
+
+
+WARNING the alpha parameter with a value of 12.828175 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0]: Time 0.049970 GAMMA-based likelihood -90.706725, best rearrangement setting 4
+alpha[0]: 12.828175 rates[0] ac ag at cg ct gt: 0.000100 22204.891794 0.000100 41447.305475 0.000100 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+
+WARNING the alpha parameter with a value of 29.668808 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0] final GAMMA-based Likelihood: -90.705190 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas_top_CDR3/RAxML_result.mp3_pooled_replicas_top_CDR3_993.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -90.705190 .... 
+
+Final GAMMA-based Score of best tree -90.705190
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas_top_CDR3/RAxML_info.mp3_pooled_replicas_top_CDR3_993.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas_top_CDR3/RAxML_bestTree.mp3_pooled_replicas_top_CDR3_993.phylogeny.out
+
+Overall execution time: 0.062813 secs or 0.000017 hours or 0.000001 days
+

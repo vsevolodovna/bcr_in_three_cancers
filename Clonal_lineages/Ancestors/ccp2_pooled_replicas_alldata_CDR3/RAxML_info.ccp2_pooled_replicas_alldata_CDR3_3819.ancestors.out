@@ -1,0 +1,122 @@
+
+
+IMPORTANT WARNING: Sequences 1010188 and 1014547 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010188 and 1009314 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010188 and 1018850 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010188 and 1007805 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004042 and 1025798 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004042 and 1001318 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004587 and 1012546 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004587 and 1022141 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004587 and 1009630 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004587 and 1027236 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004587 and 1018609 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001538 and 1013054 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001538 and 1021914 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009515 and 1002722 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012463 and 1003742 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1017341 and 1026668 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014368 and 1027303 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012220 and 1008478 are exactly identical
+
+IMPORTANT WARNING
+Found 18 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas_alldata_CDR3//ccp2_pooled_replicas_alldata_CDR3_3819_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 30 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.07%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 30
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas_alldata_CDR3//ccp2_pooled_replicas_alldata_CDR3_3819_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_replicas_alldata_CDR3//RAxML_bestTree.ccp2_pooled_replicas_alldata_CDR3_3819.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3/ -n ccp2_pooled_replicas_alldata_CDR3_3819.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralProbabilities.ccp2_pooled_replicas_alldata_CDR3_3819.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralStates.ccp2_pooled_replicas_alldata_CDR3_3819.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3/RAxML_nodeLabelledRootedTree.ccp2_pooled_replicas_alldata_CDR3_3819.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.087115
+

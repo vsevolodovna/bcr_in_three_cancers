@@ -1,0 +1,155 @@
+
+
+IMPORTANT WARNING: Sequences 1015784 and 1055197 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015784 and 1011093 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040794 and 1003785 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040794 and 1038673 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003355 and 1033258 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003355 and 1050641 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003355 and 1054272 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003355 and 1051856 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014638 and 1035867 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059996 and 1019339 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059996 and 1038092 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059996 and 1057290 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059996 and 1006747 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031111 and 1030376 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031111 and 1026787 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031111 and 1038505 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1038933 and 1063919 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050517 and 1026411 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1038704 and 1046976 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021984 and 1052219 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1006160 and 1039844 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1006160 and 1000169 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041953 and 1023162 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043874 and 1057793 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022687 and 1063271 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022687 and 1009137 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012149 and 1028115 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054847 and 1017409 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054847 and 1009224 are exactly identical
+
+IMPORTANT WARNING
+Found 29 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_15174_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 32 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.56%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 32
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_15174_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples//RAxML_bestTree.ccp2_pooled_samples_15174.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/ -n ccp2_pooled_samples_15174.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralProbabilities.ccp2_pooled_samples_15174.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralStates.ccp2_pooled_samples_15174.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_nodeLabelledRootedTree.ccp2_pooled_samples_15174.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.215675
+

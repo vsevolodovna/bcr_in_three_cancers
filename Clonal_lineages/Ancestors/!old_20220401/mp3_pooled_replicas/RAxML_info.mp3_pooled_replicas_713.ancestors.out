@@ -1,0 +1,90 @@
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1003297 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1004473 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1002742 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1000167 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1000691 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002355 and 1002038 are exactly identical
+
+IMPORTANT WARNING
+Found 6 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas//mp3_pooled_replicas_713_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 9 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 4.69%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 9
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas//mp3_pooled_replicas_713_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas//RAxML_bestTree.mp3_pooled_replicas_713.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas/ -n mp3_pooled_replicas_713.ancestors.out 
+
+
+
+
+ BFGS required too many iterations, reverting to Brent-based optimizer
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas/RAxML_marginalAncestralProbabilities.mp3_pooled_replicas_713.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas/RAxML_marginalAncestralStates.mp3_pooled_replicas_713.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas/RAxML_nodeLabelledRootedTree.mp3_pooled_replicas_713.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.064973
+

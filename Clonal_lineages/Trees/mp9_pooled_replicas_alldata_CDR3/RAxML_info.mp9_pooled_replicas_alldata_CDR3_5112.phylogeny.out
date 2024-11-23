@@ -1,0 +1,98 @@
+
+
+IMPORTANT WARNING: Sequences 1002163 and 1018659 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025139 and 1005467 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025139 and 1019821 are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_5112_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 13 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 8.33%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 13
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_5112_aln.fasta -n mp9_pooled_replicas_alldata_CDR3_5112.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.247 0.107 0.364 0.282 
+
+
+WARNING the alpha parameter with a value of 10.996739 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0]: Time 0.061230 GAMMA-based likelihood -90.066151, best rearrangement setting 4
+alpha[0]: 10.996739 rates[0] ac ag at cg ct gt: 30469.882297 6455.668642 9042.385329 33493.377373 27147.811842 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+
+WARNING the alpha parameter with a value of 25.135202 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0] final GAMMA-based Likelihood: -90.055547 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_result.mp9_pooled_replicas_alldata_CDR3_5112.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -90.055547 .... 
+
+Final GAMMA-based Score of best tree -90.055547
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_info.mp9_pooled_replicas_alldata_CDR3_5112.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_bestTree.mp9_pooled_replicas_alldata_CDR3_5112.phylogeny.out
+
+Overall execution time: 0.093505 secs or 0.000026 hours or 0.000001 days
+

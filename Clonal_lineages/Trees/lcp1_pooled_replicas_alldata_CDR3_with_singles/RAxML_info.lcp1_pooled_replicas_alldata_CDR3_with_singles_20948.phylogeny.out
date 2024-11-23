@@ -1,0 +1,142 @@
+
+
+IMPORTANT WARNING: Sequences 1145444 and 1122727 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011959 and 1021271 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031357 and 1007005 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1132906 and 1031284 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1108294 and 1027004 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1131205 and 1067909 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011371 and 1032457 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030626 and 1011107 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1056107 and 1086057 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1056107 and 1023698 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1006301 and 1136921 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1111435 and 1147857 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1107952 and 1071563 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019109 and 1009541 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110083 and 1011751 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1049282 and 1079524 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1016894 and 1022546 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1114954 and 1051997 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1082904 and 1120169 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1072717 and 1087019 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054628 and 1027309 are exactly identical
+
+IMPORTANT WARNING
+Found 21 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/lcp1_pooled_replicas_alldata_CDR3_with_singles//lcp1_pooled_replicas_alldata_CDR3_with_singles_20948_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 28 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.19%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 28
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/lcp1_pooled_replicas_alldata_CDR3_with_singles//lcp1_pooled_replicas_alldata_CDR3_with_singles_20948_aln.fasta -n lcp1_pooled_replicas_alldata_CDR3_with_singles_20948.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/lcp1_pooled_replicas_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.219 0.205 0.333 0.243 
+
+Inference[0]: Time 3.082866 GAMMA-based likelihood -834.499970, best rearrangement setting 10
+alpha[0]: 0.240460 rates[0] ac ag at cg ct gt: 1.413645 1.620112 0.790061 1.718155 1.461007 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -833.340999 tree written to file /home/sofyakrasik/Hypermutations/Trees/lcp1_pooled_replicas_alldata_CDR3_with_singles/RAxML_result.lcp1_pooled_replicas_alldata_CDR3_with_singles_20948.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -833.340999 .... 
+
+Final GAMMA-based Score of best tree -833.302143
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/lcp1_pooled_replicas_alldata_CDR3_with_singles/RAxML_info.lcp1_pooled_replicas_alldata_CDR3_with_singles_20948.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/lcp1_pooled_replicas_alldata_CDR3_with_singles/RAxML_bestTree.lcp1_pooled_replicas_alldata_CDR3_with_singles_20948.phylogeny.out
+
+Overall execution time: 3.899361 secs or 0.001083 hours or 0.000045 days
+

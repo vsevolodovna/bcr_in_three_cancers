@@ -1,0 +1,116 @@
+
+
+IMPORTANT WARNING: Sequences 1062295 and 1040337 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1058463 and 1088126 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1058463 and 1016331 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091665 and 1002804 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091665 and 1092280 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091665 and 1016347 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091665 and 1024877 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1028501 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1045474 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1035586 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1089281 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1036322 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1091818 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1030346 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1039321 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023749 and 1018747 are exactly identical
+
+IMPORTANT WARNING
+Found 16 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_3100_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 16 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.89%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 16
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_3100_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_3100.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/ -n ccp6_pooled_replicas_alldata_CDR3_with_singles_3100.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.ccp6_pooled_replicas_alldata_CDR3_with_singles_3100.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.ccp6_pooled_replicas_alldata_CDR3_with_singles_3100.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_3100.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.036572
+

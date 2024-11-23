@@ -1,0 +1,81 @@
+
+
+IMPORTANT WARNING: Sequences 1073333 and 1047992 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3_with_singles//mp9_pooled_replicas_alldata_CDR3_with_singles_47552_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 13 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 9.26%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 13
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3_with_singles//mp9_pooled_replicas_alldata_CDR3_with_singles_47552_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.mp9_pooled_replicas_alldata_CDR3_with_singles_47552.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3_with_singles/ -n mp9_pooled_replicas_alldata_CDR3_with_singles_47552.ancestors.out 
+
+
+
+WARNING the alpha parameter with a value of 12.297040 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 28.380575 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.mp9_pooled_replicas_alldata_CDR3_with_singles_47552.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.mp9_pooled_replicas_alldata_CDR3_with_singles_47552.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.mp9_pooled_replicas_alldata_CDR3_with_singles_47552.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.037268
+

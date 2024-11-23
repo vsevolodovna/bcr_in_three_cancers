@@ -1,0 +1,3 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_Quantile/Pooled_Samples/mixcr/col_ccp5_tum_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	col_ccp5_tum_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	col	ccp5	tum
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_Quantile/Pooled_Samples/mixcr/col_ccp5_PBMC_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	col_ccp5_PBMC_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	col	ccp5	PBMC

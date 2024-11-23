@@ -1,0 +1,15 @@
+path	basename	cancer	patient	organ	sort_type
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp2_tum_bulk_top1000.clonotypes.IGH.txt	lun_lcp2_tum_bulk_top1000.clonotypes.IGH.txt	lun	lcp2	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/mel_mp2_tum_bulk_top290.clonotypes.IGH.txt	mel_mp2_tum_bulk_top290.clonotypes.IGH.txt	mel	mp2	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp6_tum_bulk_top1000.clonotypes.IGH.txt	col_ccp6_tum_bulk_top1000.clonotypes.IGH.txt	col	ccp6	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp2_tum_bulk_top1000.clonotypes.IGH.txt	col_ccp2_tum_bulk_top1000.clonotypes.IGH.txt	col	ccp2	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp3_tum_bulk_top1000.clonotypes.IGH.txt	col_ccp3_tum_bulk_top1000.clonotypes.IGH.txt	col	ccp3	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp3_tum_bulk_top1000.clonotypes.IGH.txt	lun_lcp3_tum_bulk_top1000.clonotypes.IGH.txt	lun	lcp3	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp5_tum_bulk_top1000.clonotypes.IGH.txt	col_ccp5_tum_bulk_top1000.clonotypes.IGH.txt	col	ccp5	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp1_tum_bulk_top1000.clonotypes.IGH.txt	lun_lcp1_tum_bulk_top1000.clonotypes.IGH.txt	lun	lcp1	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp4_tum_notPCsort_top202.clonotypes.IGH.txt	lun_lcp4_tum_notPCsort_top202.clonotypes.IGH.txt	lun	lcp4	tum	notPCsort
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp4_tum_bulk_top1000.clonotypes.IGH.txt	lun_lcp4_tum_bulk_top1000.clonotypes.IGH.txt	lun	lcp4	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/lun_lcp4_tum_PCsort_top202.clonotypes.IGH.txt	lun_lcp4_tum_PCsort_top202.clonotypes.IGH.txt	lun	lcp4	tum	PCsort
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/mel_mp3_tum_bulk_top1000.clonotypes.IGH.txt	mel_mp3_tum_bulk_top1000.clonotypes.IGH.txt	mel	mp3	tum	bulk
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp2_tum_PCsort_top1000.clonotypes.IGH.txt	col_ccp2_tum_PCsort_top1000.clonotypes.IGH.txt	col	ccp2	tum	PCsort
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top1000_or_max/Pooled_Samples/mixcr/col_ccp3_tum_PCsort_top1000.clonotypes.IGH.txt	col_ccp3_tum_PCsort_top1000.clonotypes.IGH.txt	col	ccp3	tum	PCsort

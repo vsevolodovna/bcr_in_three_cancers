@@ -1,0 +1,2 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Samples/mixcr/lun_lcp2_tum_bulk_top46.clonotypes.IGH.txt	lun_lcp2_tum_bulk_top46.clonotypes.IGH.txt	lun	lcp2	tum

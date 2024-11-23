@@ -1,0 +1,134 @@
+
+
+IMPORTANT WARNING: Sequences 1016023 and 1007595 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064951 and 1056295 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064951 and 1015715 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054936 and 1073849 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054936 and 1067131 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054936 and 1058651 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036846 and 1048603 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036846 and 1056170 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036846 and 1070650 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1046907 and 1028593 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1038939 and 1017021 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011488 and 1055485 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011488 and 1061978 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030262 and 1061960 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041525 and 1068914 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041525 and 1034150 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041525 and 1009620 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069000 and 1002738 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069000 and 1041107 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013738 and 1051702 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013738 and 1075928 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013738 and 1041940 are exactly identical
+
+IMPORTANT WARNING
+Found 22 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas//mp7_pooled_replicas_6316_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 22 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.66%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 22
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas//mp7_pooled_replicas_6316_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas//RAxML_bestTree.mp7_pooled_replicas_6316.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/ -n mp7_pooled_replicas_6316.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_marginalAncestralProbabilities.mp7_pooled_replicas_6316.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_marginalAncestralStates.mp7_pooled_replicas_6316.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas/RAxML_nodeLabelledRootedTree.mp7_pooled_replicas_6316.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.091636
+

@@ -1,0 +1,2 @@
+path	basename	cancer	patient	organ	sample
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Replicas/mixcr/mel_mp1_PBMC_bulk_1_1_top2863.clonotypes.IGH.txt	mel_mp1_PBMC_bulk_1_1_top2863.clonotypes.IGH.txt	mel	mp1	PBMC	PBMC11

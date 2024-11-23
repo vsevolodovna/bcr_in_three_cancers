@@ -1,0 +1,212 @@
+
+
+IMPORTANT WARNING: Sequences 1009198 and 1010908 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009198 and 1003279 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009198 and 1006877 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018402 and 1013018 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018402 and 1012996 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028485 and 1015598 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028485 and 1007589 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014896 and 1013835 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025318 and 1009873 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028132 and 1000598 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028132 and 1003696 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004991 and 1006183 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004991 and 1004466 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022448 and 1001445 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022448 and 1020654 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022448 and 1025442 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026675 and 1026159 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026675 and 1002985 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001562 and 1008144 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001562 and 1026891 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031078 and 1004914 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031078 and 1030285 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031078 and 1029967 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031078 and 1022218 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031078 and 1022009 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030344 and 1012862 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1029060 and 1027262 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1029060 and 1017114 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1029060 and 1030776 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002483 and 1024530 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002483 and 1000944 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002483 and 1029730 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002483 and 1003870 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025794 and 1006478 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025794 and 1027969 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019499 and 1004340 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018323 and 1001842 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018323 and 1014737 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028696 and 1004408 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028696 and 1024218 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1017165 and 1021272 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1017165 and 1002088 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001100 and 1023648 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001100 and 1021717 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001100 and 1003717 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001100 and 1023766 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020954 and 1015384 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020954 and 1026684 are exactly identical
+
+IMPORTANT WARNING
+Found 48 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas//ccp2_pooled_replicas_769_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 31 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.47%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 31
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas//ccp2_pooled_replicas_769_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_replicas//RAxML_bestTree.ccp2_pooled_replicas_769.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas/ -n ccp2_pooled_replicas_769.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas/RAxML_marginalAncestralProbabilities.ccp2_pooled_replicas_769.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas/RAxML_marginalAncestralStates.ccp2_pooled_replicas_769.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas/RAxML_nodeLabelledRootedTree.ccp2_pooled_replicas_769.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.219760
+

@@ -1,0 +1,200 @@
+
+
+IMPORTANT WARNING: Sequences 1036103 and 1062237 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059430 and 1027057 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014351 and 1014112 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1017474 and 1055290 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1053107 and 1051191 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1052482 and 1085035 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1052482 and 1009112 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085514 and 1036138 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1081829 and 1066584 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061009 and 1001427 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1006826 and 1030817 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1049850 and 1080246 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033634 and 1006461 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023456 and 1046868 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1029456 and 1045902 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004066 and 1023732 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1057247 and 1020858 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1070621 and 1003444 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023385 and 1047152 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023385 and 1037448 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1084595 and 1016374 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1035421 and 1011105 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059269 and 1021958 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091602 and 1079262 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091602 and 1030299 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043544 and 1052558 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069529 and 1064954 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069529 and 1056599 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069529 and 1061190 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091355 and 1069471 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1091355 and 1086314 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043095 and 1048029 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027124 and 1005997 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027124 and 1001628 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059153 and 1055156 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000935 and 1002556 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000935 and 1034792 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000935 and 1037398 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069542 and 1016375 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1088336 and 1031112 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1086507 and 1016241 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1031766 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1080247 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1079646 are exactly identical
+
+IMPORTANT WARNING
+Found 44 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_1487_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 37 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.31%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 37
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_1487_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_1487.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/ -n ccp6_pooled_replicas_alldata_CDR3_with_singles_1487.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.ccp6_pooled_replicas_alldata_CDR3_with_singles_1487.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.ccp6_pooled_replicas_alldata_CDR3_with_singles_1487.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_1487.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.333002
+

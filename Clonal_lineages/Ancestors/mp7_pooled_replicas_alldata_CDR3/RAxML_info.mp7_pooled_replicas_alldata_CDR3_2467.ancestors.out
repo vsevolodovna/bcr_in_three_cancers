@@ -1,0 +1,98 @@
+
+
+IMPORTANT WARNING: Sequences 1024554 and 1021878 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024554 and 1040883 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024554 and 1001800 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034053 and 1001003 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020285 and 1013566 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020285 and 1032360 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020285 and 1023766 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008211 and 1006548 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008211 and 1000825 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008211 and 1042419 are exactly identical
+
+IMPORTANT WARNING
+Found 10 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_alldata_CDR3//mp7_pooled_replicas_alldata_CDR3_2467_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 21 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.09%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 21
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_alldata_CDR3//mp7_pooled_replicas_alldata_CDR3_2467_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_alldata_CDR3//RAxML_bestTree.mp7_pooled_replicas_alldata_CDR3_2467.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_alldata_CDR3/ -n mp7_pooled_replicas_alldata_CDR3_2467.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralProbabilities.mp7_pooled_replicas_alldata_CDR3_2467.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralStates.mp7_pooled_replicas_alldata_CDR3_2467.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_alldata_CDR3/RAxML_nodeLabelledRootedTree.mp7_pooled_replicas_alldata_CDR3_2467.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.038096
+

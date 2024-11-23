@@ -1,0 +1,131 @@
+
+
+IMPORTANT WARNING: Sequences 1034796 and 1063950 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063833 and 1021073 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063833 and 1070307 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1005829 and 1040979 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043707 and 1022356 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062292 and 1005158 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007378 and 1062188 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043090 and 1025378 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043090 and 1069984 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033899 and 1049814 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018187 and 1067080 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019961 and 1048217 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069376 and 1061141 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030646 and 1029582 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022132 and 1066129 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1038085 and 1033521 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1032617 and 1049546 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1016643 and 1070023 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1016643 and 1031213 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064812 and 1046945 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1037712 and 1062363 are exactly identical
+
+IMPORTANT WARNING
+Found 21 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_4215_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 35 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.59%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 35
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples//ccp2_pooled_samples_4215_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples//RAxML_bestTree.ccp2_pooled_samples_4215.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/ -n ccp2_pooled_samples_4215.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralProbabilities.ccp2_pooled_samples_4215.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_marginalAncestralStates.ccp2_pooled_samples_4215.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples/RAxML_nodeLabelledRootedTree.ccp2_pooled_samples_4215.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.539202
+

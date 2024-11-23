@@ -1,0 +1,8 @@
+path	basename	cancer	patient	organ	sample
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_tum_PCsort_1_3_pooled.clonotypes.IGH.txt	col_ccp2_tum_PCsort_1_3_pooled.clonotypes.IGH.txt	col	ccp2	tum	tum13
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_PBMC_PCsort_1_1_pooled.clonotypes.IGH.txt	col_ccp2_PBMC_PCsort_1_1_pooled.clonotypes.IGH.txt	col	ccp2	PBMC	PBMC11
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_LN_PCsort_2_1_pooled.clonotypes.IGH.txt	col_ccp2_LN_PCsort_2_1_pooled.clonotypes.IGH.txt	col	ccp2	LN	LN21
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_tum_PCsort_1_1_pooled.clonotypes.IGH.txt	col_ccp2_tum_PCsort_1_1_pooled.clonotypes.IGH.txt	col	ccp2	tum	tum11
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_tum_PCsort_1_2_pooled.clonotypes.IGH.txt	col_ccp2_tum_PCsort_1_2_pooled.clonotypes.IGH.txt	col	ccp2	tum	tum12
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_LN_PCsort_3_1_pooled.clonotypes.IGH.txt	col_ccp2_LN_PCsort_3_1_pooled.clonotypes.IGH.txt	col	ccp2	LN	LN31
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/col_ccp2_LN_PCsort_1_1_pooled.clonotypes.IGH.txt	col_ccp2_LN_PCsort_1_1_pooled.clonotypes.IGH.txt	col	ccp2	LN	LN11

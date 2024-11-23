@@ -1,0 +1,124 @@
+
+
+IMPORTANT WARNING: Sequences 1109633 and 1097720 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048772 and 1013491 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041140 and 1002649 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1051341 and 1000846 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1051341 and 1065193 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012623 and 1061623 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012623 and 1055534 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1094222 and 1053194 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1071620 and 1071812 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1071620 and 1123361 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048103 and 1119698 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048103 and 1059147 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043251 and 1076648 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020780 and 1112386 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062805 and 1116255 are exactly identical
+
+IMPORTANT WARNING
+Found 15 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_alldata_CDR3_with_singles//mp7_pooled_replicas_alldata_CDR3_with_singles_764_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 34 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.61%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 34
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_alldata_CDR3_with_singles//mp7_pooled_replicas_alldata_CDR3_with_singles_764_aln.fasta -n mp7_pooled_replicas_alldata_CDR3_with_singles_764.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.187 0.149 0.295 0.368 
+
+Inference[0]: Time 2.054801 GAMMA-based likelihood -446.422341, best rearrangement setting 10
+alpha[0]: 0.950247 rates[0] ac ag at cg ct gt: 12.294577 8.722478 2.899952 20.656908 11.246103 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -446.397510 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_alldata_CDR3_with_singles/RAxML_result.mp7_pooled_replicas_alldata_CDR3_with_singles_764.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -446.397510 .... 
+
+Final GAMMA-based Score of best tree -446.397483
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_alldata_CDR3_with_singles/RAxML_info.mp7_pooled_replicas_alldata_CDR3_with_singles_764.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_alldata_CDR3_with_singles/RAxML_bestTree.mp7_pooled_replicas_alldata_CDR3_with_singles_764.phylogeny.out
+
+Overall execution time: 2.701944 secs or 0.000751 hours or 0.000031 days
+

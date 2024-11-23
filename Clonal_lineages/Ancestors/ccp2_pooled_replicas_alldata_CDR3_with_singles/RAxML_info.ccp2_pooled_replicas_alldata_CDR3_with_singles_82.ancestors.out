@@ -1,0 +1,134 @@
+
+
+IMPORTANT WARNING: Sequences 1061424 and 1069276 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004332 and 1063315 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004332 and 1011352 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004332 and 1049992 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004332 and 1066662 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004332 and 1039704 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043400 and 1028548 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1015498 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1070863 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1029354 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1005277 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1023628 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1029095 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1064825 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1026987 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1065255 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063705 and 1010983 are exactly identical
+
+IMPORTANT WARNING
+Found 17 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas_alldata_CDR3_with_singles//ccp2_pooled_replicas_alldata_CDR3_with_singles_82_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 14 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.01%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 14
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_replicas_alldata_CDR3_with_singles//ccp2_pooled_replicas_alldata_CDR3_with_singles_82_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.ccp2_pooled_replicas_alldata_CDR3_with_singles_82.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3_with_singles/ -n ccp2_pooled_replicas_alldata_CDR3_with_singles_82.ancestors.out 
+
+
+
+WARNING the alpha parameter with a value of 10.788010 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 24.796283 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 57.191707 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.ccp2_pooled_replicas_alldata_CDR3_with_singles_82.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.ccp2_pooled_replicas_alldata_CDR3_with_singles_82.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.ccp2_pooled_replicas_alldata_CDR3_with_singles_82.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.061956
+

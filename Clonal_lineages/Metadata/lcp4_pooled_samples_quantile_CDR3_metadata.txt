@@ -1,0 +1,4 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_Quantile/Pooled_Samples/mixcr/lun_lcp4_tum_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun_lcp4_tum_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun	lcp4	tum
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_Quantile/Pooled_Samples/mixcr/lun_lcp4_norm_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun_lcp4_norm_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun	lcp4	norm
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_Quantile/Pooled_Samples/mixcr/lun_lcp4_PBMC_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun_lcp4_PBMC_bulk_pooled_top_40_quantile.clonotypes.IGH.txt	lun	lcp4	PBMC

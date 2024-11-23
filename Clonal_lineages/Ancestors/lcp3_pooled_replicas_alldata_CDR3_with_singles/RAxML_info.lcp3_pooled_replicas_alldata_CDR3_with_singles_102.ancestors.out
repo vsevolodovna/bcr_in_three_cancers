@@ -1,0 +1,116 @@
+
+
+IMPORTANT WARNING: Sequences 1069607 and 1000082 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036659 and 1065230 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061558 and 1021499 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061558 and 1021585 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061558 and 1023365 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061558 and 1032419 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061558 and 1054440 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033155 and 1017185 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1020656 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1066586 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1067618 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1052621 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1045499 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1041975 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1019951 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031575 and 1003382 are exactly identical
+
+IMPORTANT WARNING
+Found 16 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/lcp3_pooled_replicas_alldata_CDR3_with_singles//lcp3_pooled_replicas_alldata_CDR3_with_singles_102_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 25 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.93%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 25
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/lcp3_pooled_replicas_alldata_CDR3_with_singles//lcp3_pooled_replicas_alldata_CDR3_with_singles_102_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/lcp3_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.lcp3_pooled_replicas_alldata_CDR3_with_singles_102.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/lcp3_pooled_replicas_alldata_CDR3_with_singles/ -n lcp3_pooled_replicas_alldata_CDR3_with_singles_102.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.lcp3_pooled_replicas_alldata_CDR3_with_singles_102.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.lcp3_pooled_replicas_alldata_CDR3_with_singles_102.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.lcp3_pooled_replicas_alldata_CDR3_with_singles_102.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.151987
+

@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences 1001261 and 1010131 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001261 and 1010407 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1006240 and 1004820 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007022 and 1009099 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007022 and 1001101 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011462 and 1000279 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011462 and 1005634 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007413 and 1008960 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013703 and 1007636 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013703 and 1000132 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003136 and 1011261 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000307 and 1008894 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000307 and 1001923 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/lcp3_pooled_samples_alldata_full_length_with_singles//lcp3_pooled_samples_alldata_full_length_with_singles_182_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 89 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.43%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 89
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/lcp3_pooled_samples_alldata_full_length_with_singles//lcp3_pooled_samples_alldata_full_length_with_singles_182_aln.fasta -n lcp3_pooled_samples_alldata_full_length_with_singles_182.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/lcp3_pooled_samples_alldata_full_length_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.231 0.254 0.299 0.216 
+
+Inference[0]: Time 0.512736 GAMMA-based likelihood -1125.823395, best rearrangement setting 5
+alpha[0]: 1.032500 rates[0] ac ag at cg ct gt: 1.024848 1.638633 1.862116 0.877737 1.800986 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -1125.823341 tree written to file /home/sofyakrasik/Hypermutations/Trees/lcp3_pooled_samples_alldata_full_length_with_singles/RAxML_result.lcp3_pooled_samples_alldata_full_length_with_singles_182.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -1125.823341 .... 
+
+Final GAMMA-based Score of best tree -1125.823296
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/lcp3_pooled_samples_alldata_full_length_with_singles/RAxML_info.lcp3_pooled_samples_alldata_full_length_with_singles_182.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/lcp3_pooled_samples_alldata_full_length_with_singles/RAxML_bestTree.lcp3_pooled_samples_alldata_full_length_with_singles_182.phylogeny.out
+
+Overall execution time: 0.867279 secs or 0.000241 hours or 0.000010 days
+

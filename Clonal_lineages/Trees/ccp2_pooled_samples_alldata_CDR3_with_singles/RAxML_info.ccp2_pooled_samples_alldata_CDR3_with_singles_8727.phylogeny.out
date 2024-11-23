@@ -1,0 +1,115 @@
+
+
+IMPORTANT WARNING: Sequences 1011894 and 1008124 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012728 and 1039659 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012728 and 1049807 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003385 and 1045897 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061506 and 1050130 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022508 and 1060284 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022508 and 1027069 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022508 and 1056720 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022508 and 1060503 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1022508 and 1024295 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1052526 and 1045184 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059615 and 1012426 are exactly identical
+
+IMPORTANT WARNING
+Found 12 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_alldata_CDR3_with_singles//ccp2_pooled_samples_alldata_CDR3_with_singles_8727_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 20 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.39%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 20
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_alldata_CDR3_with_singles//ccp2_pooled_samples_alldata_CDR3_with_singles_8727_aln.fasta -n ccp2_pooled_samples_alldata_CDR3_with_singles_8727.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.152 0.185 0.343 0.320 
+
+Inference[0]: Time 0.205176 GAMMA-based likelihood -153.054055, best rearrangement setting 5
+alpha[0]: 0.390982 rates[0] ac ag at cg ct gt: 5.514330 5.067295 3.299218 0.283019 0.476079 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -153.017946 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_result.ccp2_pooled_samples_alldata_CDR3_with_singles_8727.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -153.017946 .... 
+
+Final GAMMA-based Score of best tree -153.017945
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_info.ccp2_pooled_samples_alldata_CDR3_with_singles_8727.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_bestTree.ccp2_pooled_samples_alldata_CDR3_with_singles_8727.phylogeny.out
+
+Overall execution time: 0.307957 secs or 0.000086 hours or 0.000004 days
+

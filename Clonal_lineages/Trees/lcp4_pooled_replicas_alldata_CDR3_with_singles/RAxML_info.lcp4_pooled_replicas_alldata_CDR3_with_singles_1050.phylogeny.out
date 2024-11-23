@@ -1,0 +1,274 @@
+
+
+IMPORTANT WARNING: Sequences 1057728 and 1103117 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1092506 and 1069125 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1092506 and 1041414 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063170 and 1014984 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063170 and 1092118 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1067156 and 1047967 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1067156 and 1054851 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1057097 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1018670 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1006729 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1039756 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1067778 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1045965 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1097502 and 1096199 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061050 and 1016652 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061050 and 1084381 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1099975 and 1036336 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1099975 and 1083167 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1099975 and 1057114 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1102931 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1015438 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1102204 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1015329 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1082384 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020941 and 1036134 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040716 and 1070699 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040716 and 1022718 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025049 and 1076067 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025049 and 1023731 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019248 and 1010857 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1093155 and 1029182 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1093155 and 1089385 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1093155 and 1020819 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1093155 and 1017110 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1067190 and 1077678 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1068701 and 1027990 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014603 and 1101835 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014603 and 1068650 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045428 and 1006137 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045428 and 1073909 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045428 and 1057339 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1083590 and 1103611 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1083590 and 1025804 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1083590 and 1050985 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064456 and 1001594 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1098807 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1103207 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1026437 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1094801 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1030838 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1085615 and 1013205 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007644 and 1032620 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1072105 and 1061612 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1072105 and 1094042 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001399 and 1076553 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001399 and 1021218 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001399 and 1086146 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009245 and 1047824 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008258 and 1063082 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008258 and 1080207 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008258 and 1065736 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1090977 and 1000908 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1090977 and 1058686 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1039708 and 1098255 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1039708 and 1106121 are exactly identical
+
+IMPORTANT WARNING
+Found 65 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/lcp4_pooled_replicas_alldata_CDR3_with_singles//lcp4_pooled_replicas_alldata_CDR3_with_singles_1050_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 31 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.56%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 31
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/lcp4_pooled_replicas_alldata_CDR3_with_singles//lcp4_pooled_replicas_alldata_CDR3_with_singles_1050_aln.fasta -n lcp4_pooled_replicas_alldata_CDR3_with_singles_1050.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/lcp4_pooled_replicas_alldata_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.225 0.138 0.325 0.312 
+
+Inference[0]: Time 2.714173 GAMMA-based likelihood -469.353643, best rearrangement setting 10
+alpha[0]: 0.540869 rates[0] ac ag at cg ct gt: 3.775797 3.986966 1.906377 2.688360 8.957030 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -469.353301 tree written to file /home/sofyakrasik/Hypermutations/Trees/lcp4_pooled_replicas_alldata_CDR3_with_singles/RAxML_result.lcp4_pooled_replicas_alldata_CDR3_with_singles_1050.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -469.353301 .... 
+
+Final GAMMA-based Score of best tree -469.353212
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/lcp4_pooled_replicas_alldata_CDR3_with_singles/RAxML_info.lcp4_pooled_replicas_alldata_CDR3_with_singles_1050.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/lcp4_pooled_replicas_alldata_CDR3_with_singles/RAxML_bestTree.lcp4_pooled_replicas_alldata_CDR3_with_singles_1050.phylogeny.out
+
+Overall execution time: 3.736387 secs or 0.001038 hours or 0.000043 days
+

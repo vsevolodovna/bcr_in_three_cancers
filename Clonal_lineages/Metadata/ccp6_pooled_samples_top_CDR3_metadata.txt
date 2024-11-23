@@ -1,0 +1,4 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Samples/mixcr/col_ccp6_tum_bulk_top1274.clonotypes.IGH.txt	col_ccp6_tum_bulk_top1274.clonotypes.IGH.txt	col	ccp6	tum
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Samples/mixcr/col_ccp6_PBMC_bulk_top1274.clonotypes.IGH.txt	col_ccp6_PBMC_bulk_top1274.clonotypes.IGH.txt	col	ccp6	PBMC
+/home/sofyakrasik/BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Samples/mixcr/col_ccp6_LN_bulk_top1274.clonotypes.IGH.txt	col_ccp6_LN_bulk_top1274.clonotypes.IGH.txt	col	ccp6	LN

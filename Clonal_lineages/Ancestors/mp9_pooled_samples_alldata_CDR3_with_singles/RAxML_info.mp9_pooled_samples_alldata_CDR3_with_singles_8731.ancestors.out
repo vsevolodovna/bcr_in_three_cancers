@@ -1,0 +1,104 @@
+
+
+IMPORTANT WARNING: Sequences 1018485 and 1060996 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018485 and 1058203 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1061639 and 1056878 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007487 and 1070298 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1005787 and 1047293 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041201 and 1022759 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1041201 and 1025474 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033892 and 1026211 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009003 and 1006723 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009003 and 1042455 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1057662 and 1072177 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1057662 and 1004482 are exactly identical
+
+IMPORTANT WARNING
+Found 12 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_samples_alldata_CDR3_with_singles//mp9_pooled_samples_alldata_CDR3_with_singles_8731_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 34 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.79%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 34
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_samples_alldata_CDR3_with_singles//mp9_pooled_samples_alldata_CDR3_with_singles_8731_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_samples_alldata_CDR3_with_singles//RAxML_bestTree.mp9_pooled_samples_alldata_CDR3_with_singles_8731.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_samples_alldata_CDR3_with_singles/ -n mp9_pooled_samples_alldata_CDR3_with_singles_8731.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.mp9_pooled_samples_alldata_CDR3_with_singles_8731.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.mp9_pooled_samples_alldata_CDR3_with_singles_8731.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_samples_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.mp9_pooled_samples_alldata_CDR3_with_singles_8731.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.167921
+

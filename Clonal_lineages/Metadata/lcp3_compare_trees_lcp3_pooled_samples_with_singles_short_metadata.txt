@@ -1,0 +1,4 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/Hypermutations/Analysis/Short_vs_Long/CDR3/lun_lcp3_tum_bulk_pooled.clonotypes.IGH.txt	lun_lcp3_tum_bulk_pooled.clonotypes.IGH.txt	lun	lcp3	tum
+/home/sofyakrasik/Hypermutations/Analysis/Short_vs_Long/CDR3/lun_lcp3_norm_bulk_pooled.clonotypes.IGH.txt	lun_lcp3_norm_bulk_pooled.clonotypes.IGH.txt	lun	lcp3	norm
+/home/sofyakrasik/Hypermutations/Analysis/Short_vs_Long/CDR3/lun_lcp3_LN_bulk_pooled.clonotypes.IGH.txt	lun_lcp3_LN_bulk_pooled.clonotypes.IGH.txt	lun	lcp3	LN

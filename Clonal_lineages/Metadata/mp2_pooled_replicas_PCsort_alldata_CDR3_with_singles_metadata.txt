@@ -1,0 +1,3 @@
+path	basename	cancer	patient	organ	sample
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/mel_mp2_tum_PCsort_1_1_pooled.clonotypes.IGH.txt	mel_mp2_tum_PCsort_1_1_pooled.clonotypes.IGH.txt	mel	mp2	tum	tum11
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Replicas_nt/mixcr/mel_mp2_PBMC_PCsort_1_1_pooled.clonotypes.IGH.txt	mel_mp2_PBMC_PCsort_1_1_pooled.clonotypes.IGH.txt	mel	mp2	PBMC	PBMC11

@@ -1,0 +1,72 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 25 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 5.00%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 25
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp2_pooled_samples_alldata_CDR3//mp2_pooled_samples_alldata_CDR3_12447_aln.fasta -n mp2_pooled_samples_alldata_CDR3_12447.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp2_pooled_samples_alldata_CDR3/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.207 0.147 0.330 0.316 
+
+Inference[0]: Time 0.065715 GAMMA-based likelihood -208.670095, best rearrangement setting 5
+alpha[0]: 0.322131 rates[0] ac ag at cg ct gt: 15.341460 10.766149 11.198144 1.690733 16.081150 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -208.670086 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp2_pooled_samples_alldata_CDR3/RAxML_result.mp2_pooled_samples_alldata_CDR3_12447.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -208.670086 .... 
+
+Final GAMMA-based Score of best tree -208.670072
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp2_pooled_samples_alldata_CDR3/RAxML_info.mp2_pooled_samples_alldata_CDR3_12447.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp2_pooled_samples_alldata_CDR3/RAxML_bestTree.mp2_pooled_samples_alldata_CDR3_12447.phylogeny.out
+
+Overall execution time: 0.089154 secs or 0.000025 hours or 0.000001 days
+

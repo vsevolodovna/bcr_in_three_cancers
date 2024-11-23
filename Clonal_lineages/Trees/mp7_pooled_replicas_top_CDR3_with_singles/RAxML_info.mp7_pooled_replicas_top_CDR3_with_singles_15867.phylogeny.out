@@ -1,0 +1,199 @@
+
+
+IMPORTANT WARNING: Sequences 1048217 and 1007927 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048217 and 1062608 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048217 and 1021156 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1048217 and 1054489 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1059110 and 1021114 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069771 and 1049396 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023651 and 1004202 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031369 and 1002930 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031369 and 1038201 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031369 and 1062771 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031369 and 1057994 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011155 and 1050570 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1070577 and 1057347 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1067841 and 1055381 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020972 and 1055017 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020972 and 1001918 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1070877 and 1006310 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055703 and 1009905 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055703 and 1021197 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003097 and 1073287 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069856 and 1008038 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069856 and 1024442 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1069856 and 1005554 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1074023 and 1068027 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1068566 and 1028248 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003071 and 1017533 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040640 and 1021155 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1051491 and 1063544 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1063681 and 1024147 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062581 and 1057237 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013704 and 1041417 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011938 and 1071225 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021288 and 1047361 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021359 and 1071710 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021359 and 1011589 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021359 and 1058091 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008374 and 1026553 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027609 and 1070466 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1046977 and 1046529 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065994 and 1039464 are exactly identical
+
+IMPORTANT WARNING
+Found 40 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_top_CDR3_with_singles//mp7_pooled_replicas_top_CDR3_with_singles_15867_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 49 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.11%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 49
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_top_CDR3_with_singles//mp7_pooled_replicas_top_CDR3_with_singles_15867_aln.fasta -n mp7_pooled_replicas_top_CDR3_with_singles_15867.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_top_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.209 0.170 0.319 0.301 
+
+Inference[0]: Time 80.570654 GAMMA-based likelihood -4125.560205, best rearrangement setting 25
+alpha[0]: 0.825467 rates[0] ac ag at cg ct gt: 7.802576 7.285503 3.929059 7.533355 9.649644 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -4125.392463 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_result.mp7_pooled_replicas_top_CDR3_with_singles_15867.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -4125.392463 .... 
+
+Final GAMMA-based Score of best tree -4125.317692
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_info.mp7_pooled_replicas_top_CDR3_with_singles_15867.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_bestTree.mp7_pooled_replicas_top_CDR3_with_singles_15867.phylogeny.out
+
+Overall execution time: 87.258261 secs or 0.024238 hours or 0.001010 days
+

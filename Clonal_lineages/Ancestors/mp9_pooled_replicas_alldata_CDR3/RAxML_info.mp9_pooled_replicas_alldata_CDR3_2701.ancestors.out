@@ -1,0 +1,134 @@
+
+
+IMPORTANT WARNING: Sequences 1005470 and 1018345 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1005470 and 1011699 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024840 and 1007934 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004508 and 1002778 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018002 and 1003125 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012924 and 1015416 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012924 and 1016749 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012924 and 1003215 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012924 and 1020213 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007082 and 1015559 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004223 and 1026289 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1020690 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1008646 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1004973 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1002762 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1011964 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012354 and 1023940 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000763 and 1010490 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000763 and 1012473 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000763 and 1014833 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1016915 and 1027962 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1016915 and 1000038 are exactly identical
+
+IMPORTANT WARNING
+Found 22 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_2701_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 24 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.17%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 24
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_2701_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3//RAxML_bestTree.mp9_pooled_replicas_alldata_CDR3_2701.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3/ -n mp9_pooled_replicas_alldata_CDR3_2701.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralProbabilities.mp9_pooled_replicas_alldata_CDR3_2701.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralStates.mp9_pooled_replicas_alldata_CDR3_2701.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp9_pooled_replicas_alldata_CDR3/RAxML_nodeLabelledRootedTree.mp9_pooled_replicas_alldata_CDR3_2701.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.099499
+

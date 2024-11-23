@@ -1,0 +1,128 @@
+
+
+IMPORTANT WARNING: Sequences 1000024 and 1001560 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000024 and 1083320 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1074840 and 1016442 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1066189 and 1015548 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045693 and 1044141 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1080216 and 1019388 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036391 and 1059129 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036391 and 1014651 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050956 and 1044302 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050956 and 1004330 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050956 and 1016885 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050956 and 1068411 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050956 and 1055716 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1049688 and 1041353 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1037956 and 1027271 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1037956 and 1019483 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1044505 and 1068143 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1086354 and 1090041 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1079505 and 1025210 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045989 and 1039753 are exactly identical
+
+IMPORTANT WARNING
+Found 20 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_34968_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 36 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.07%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 36
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_replicas_alldata_CDR3_with_singles//ccp6_pooled_replicas_alldata_CDR3_with_singles_34968_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_replicas_alldata_CDR3_with_singles//RAxML_bestTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_34968.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/ -n ccp6_pooled_replicas_alldata_CDR3_with_singles_34968.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.ccp6_pooled_replicas_alldata_CDR3_with_singles_34968.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.ccp6_pooled_replicas_alldata_CDR3_with_singles_34968.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp6_pooled_replicas_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.ccp6_pooled_replicas_alldata_CDR3_with_singles_34968.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.102069
+

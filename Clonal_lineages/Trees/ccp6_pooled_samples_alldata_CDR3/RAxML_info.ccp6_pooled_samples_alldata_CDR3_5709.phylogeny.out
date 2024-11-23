@@ -1,0 +1,82 @@
+
+
+IMPORTANT WARNING: Sequences 1020595 and 1006244 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_samples_alldata_CDR3//ccp6_pooled_samples_alldata_CDR3_5709_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 18 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 11.75%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 18
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp6_pooled_samples_alldata_CDR3//ccp6_pooled_samples_alldata_CDR3_5709_aln.fasta -n ccp6_pooled_samples_alldata_CDR3_5709.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_samples_alldata_CDR3/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.165 0.262 0.266 0.308 
+
+Inference[0]: Time 0.031440 GAMMA-based likelihood -169.173134, best rearrangement setting 3
+alpha[0]: 0.227346 rates[0] ac ag at cg ct gt: 1.166490 1.135584 0.201516 0.082761 0.962312 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -168.917561 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_samples_alldata_CDR3/RAxML_result.ccp6_pooled_samples_alldata_CDR3_5709.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -168.917561 .... 
+
+Final GAMMA-based Score of best tree -168.917527
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_samples_alldata_CDR3/RAxML_info.ccp6_pooled_samples_alldata_CDR3_5709.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp6_pooled_samples_alldata_CDR3/RAxML_bestTree.ccp6_pooled_samples_alldata_CDR3_5709.phylogeny.out
+
+Overall execution time: 0.057992 secs or 0.000016 hours or 0.000001 days
+

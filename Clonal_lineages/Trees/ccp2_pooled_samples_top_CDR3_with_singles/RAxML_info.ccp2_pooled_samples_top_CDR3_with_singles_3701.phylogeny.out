@@ -1,0 +1,139 @@
+
+
+IMPORTANT WARNING: Sequences 1019823 and 1005664 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007034 and 1006638 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007034 and 1032068 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007034 and 1021244 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012158 and 1014241 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008419 and 1034397 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020430 and 1019518 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1025436 and 1019563 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021826 and 1017753 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021826 and 1036003 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033295 and 1008977 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033295 and 1010017 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034719 and 1014649 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034719 and 1018366 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034719 and 1028403 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030114 and 1023080 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030114 and 1026538 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034017 and 1011394 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1034017 and 1004939 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1013046 and 1003557 are exactly identical
+
+IMPORTANT WARNING
+Found 20 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_top_CDR3_with_singles//ccp2_pooled_samples_top_CDR3_with_singles_3701_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 21 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.16%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 21
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_top_CDR3_with_singles//ccp2_pooled_samples_top_CDR3_with_singles_3701_aln.fasta -n ccp2_pooled_samples_top_CDR3_with_singles_3701.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.126 0.181 0.453 0.239 
+
+Inference[0]: Time 0.465784 GAMMA-based likelihood -188.246082, best rearrangement setting 10
+alpha[0]: 0.360131 rates[0] ac ag at cg ct gt: 3.116526 2.041535 1.377131 1.926382 0.440255 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -188.072217 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_result.ccp2_pooled_samples_top_CDR3_with_singles_3701.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -188.072217 .... 
+
+Final GAMMA-based Score of best tree -188.072215
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_info.ccp2_pooled_samples_top_CDR3_with_singles_3701.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_bestTree.ccp2_pooled_samples_top_CDR3_with_singles_3701.phylogeny.out
+
+Overall execution time: 0.725218 secs or 0.000201 hours or 0.000008 days
+

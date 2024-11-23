@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences 1019611 and 1024691 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023402 and 1013072 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008781 and 1012657 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008711 and 1016548 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002608 and 1021270 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015252 and 1022020 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015252 and 1002555 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004967 and 1003143 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004967 and 1024550 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004967 and 1017806 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026540 and 1004817 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020500 and 1020498 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020500 and 1019098 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_3687_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 31 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 2.53%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 31
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/mp9_pooled_replicas_alldata_CDR3//mp9_pooled_replicas_alldata_CDR3_3687_aln.fasta -n mp9_pooled_replicas_alldata_CDR3_3687.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.190 0.206 0.283 0.320 
+
+Inference[0]: Time 0.362814 GAMMA-based likelihood -280.224697, best rearrangement setting 10
+alpha[0]: 0.962802 rates[0] ac ag at cg ct gt: 3.532077 9.354510 3.947929 2.327737 9.284023 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -280.224622 tree written to file /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_result.mp9_pooled_replicas_alldata_CDR3_3687.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -280.224622 .... 
+
+Final GAMMA-based Score of best tree -280.224622
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_info.mp9_pooled_replicas_alldata_CDR3_3687.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/mp9_pooled_replicas_alldata_CDR3/RAxML_bestTree.mp9_pooled_replicas_alldata_CDR3_3687.phylogeny.out
+
+Overall execution time: 0.511418 secs or 0.000142 hours or 0.000006 days
+

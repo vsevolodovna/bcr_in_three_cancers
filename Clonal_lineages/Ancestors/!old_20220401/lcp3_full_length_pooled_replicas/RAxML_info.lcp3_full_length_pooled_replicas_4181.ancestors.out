@@ -1,0 +1,110 @@
+
+
+IMPORTANT WARNING: Sequences 1003948 and 1006326 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1001307 and 1002023 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1005353 and 1009487 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010258 and 1004250 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003935 and 1002488 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008891 and 1006711 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008891 and 1000838 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002631 and 1007918 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007177 and 1010020 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003635 and 1001182 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010319 and 1008374 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1005984 and 1000006 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003078 and 1001216 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003078 and 1002741 are exactly identical
+
+IMPORTANT WARNING
+Found 14 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/lcp3_full_length_pooled_replicas//lcp3_full_length_pooled_replicas_4181_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 113 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.80%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 113
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/lcp3_full_length_pooled_replicas//lcp3_full_length_pooled_replicas_4181_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/lcp3_full_length_pooled_replicas//RAxML_bestTree.lcp3_full_length_pooled_replicas_4181.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/lcp3_full_length_pooled_replicas/ -n lcp3_full_length_pooled_replicas_4181.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_full_length_pooled_replicas/RAxML_marginalAncestralProbabilities.lcp3_full_length_pooled_replicas_4181.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_full_length_pooled_replicas/RAxML_marginalAncestralStates.lcp3_full_length_pooled_replicas_4181.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/lcp3_full_length_pooled_replicas/RAxML_nodeLabelledRootedTree.lcp3_full_length_pooled_replicas_4181.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.186896
+

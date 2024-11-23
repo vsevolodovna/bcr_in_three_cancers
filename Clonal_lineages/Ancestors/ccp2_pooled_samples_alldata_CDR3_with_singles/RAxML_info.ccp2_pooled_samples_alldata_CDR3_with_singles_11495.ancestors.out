@@ -1,0 +1,143 @@
+
+
+IMPORTANT WARNING: Sequences 1049942 and 1052215 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1049942 and 1019673 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008763 and 1051416 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062946 and 1011428 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043824 and 1010055 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1043824 and 1009096 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027770 and 1043504 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027770 and 1023776 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1027770 and 1000893 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1042444 and 1049796 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1042444 and 1058775 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1042444 and 1052284 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014910 and 1030489 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020773 and 1017642 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020773 and 1029948 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020773 and 1042737 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012911 and 1039347 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012911 and 1026482 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012912 and 1012243 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026212 and 1026164 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026212 and 1023001 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1026212 and 1023886 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062836 and 1048285 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1062836 and 1015315 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008300 and 1046429 are exactly identical
+
+IMPORTANT WARNING
+Found 25 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_alldata_CDR3_with_singles//ccp2_pooled_samples_alldata_CDR3_with_singles_11495_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 31 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.67%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 31
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_alldata_CDR3_with_singles//ccp2_pooled_samples_alldata_CDR3_with_singles_11495_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_alldata_CDR3_with_singles//RAxML_bestTree.ccp2_pooled_samples_alldata_CDR3_with_singles_11495.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples_alldata_CDR3_with_singles/ -n ccp2_pooled_samples_alldata_CDR3_with_singles_11495.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.ccp2_pooled_samples_alldata_CDR3_with_singles_11495.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.ccp2_pooled_samples_alldata_CDR3_with_singles_11495.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/ccp2_pooled_samples_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.ccp2_pooled_samples_alldata_CDR3_with_singles_11495.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.162583
+

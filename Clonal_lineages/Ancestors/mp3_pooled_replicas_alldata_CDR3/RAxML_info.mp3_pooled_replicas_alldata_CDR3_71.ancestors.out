@@ -1,0 +1,125 @@
+
+
+IMPORTANT WARNING: Sequences 1001887 and 1009744 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007945 and 1004324 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1007945 and 1004673 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015974 and 1016487 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015974 and 1001405 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012409 and 1003295 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012409 and 1015982 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1012409 and 1005504 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011177 and 1013039 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010882 and 1007574 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010882 and 1015459 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1010882 and 1002847 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002887 and 1008890 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002887 and 1004605 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002887 and 1014731 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1002887 and 1013352 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003932 and 1014764 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003932 and 1011065 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003932 and 1011331 are exactly identical
+
+IMPORTANT WARNING
+Found 19 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas_alldata_CDR3//mp3_pooled_replicas_alldata_CDR3_71_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 24 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.54%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 24
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp3_pooled_replicas_alldata_CDR3//mp3_pooled_replicas_alldata_CDR3_71_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp3_pooled_replicas_alldata_CDR3//RAxML_bestTree.mp3_pooled_replicas_alldata_CDR3_71.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas_alldata_CDR3/ -n mp3_pooled_replicas_alldata_CDR3_71.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralProbabilities.mp3_pooled_replicas_alldata_CDR3_71.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas_alldata_CDR3/RAxML_marginalAncestralStates.mp3_pooled_replicas_alldata_CDR3_71.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp3_pooled_replicas_alldata_CDR3/RAxML_nodeLabelledRootedTree.mp3_pooled_replicas_alldata_CDR3_71.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.042972
+

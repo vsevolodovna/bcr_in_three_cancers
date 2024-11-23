@@ -1,0 +1,128 @@
+
+
+IMPORTANT WARNING: Sequences 1030083 and 1072933 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1030083 and 1027694 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1003431 and 1066011 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1004584 and 1029162 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1111077 and 1080843 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1092039 and 1076951 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1067456 and 1090494 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1020685 and 1106862 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1094438 and 1009752 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011294 and 1089240 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1000679 and 1014420 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1064277 and 1036763 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1051102 and 1013917 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1040178 and 1040273 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1081923 and 1013151 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045357 and 1106132 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045357 and 1070913 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1029461 and 1050740 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1084641 and 1091855 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1035134 and 1023814 are exactly identical
+
+IMPORTANT WARNING
+Found 20 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_samples_alldata_CDR3_with_singles//mp7_pooled_samples_alldata_CDR3_with_singles_67773_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 50 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.05%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 50
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_samples_alldata_CDR3_with_singles//mp7_pooled_samples_alldata_CDR3_with_singles_67773_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_samples_alldata_CDR3_with_singles//RAxML_bestTree.mp7_pooled_samples_alldata_CDR3_with_singles_67773.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_samples_alldata_CDR3_with_singles/ -n mp7_pooled_samples_alldata_CDR3_with_singles_67773.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralProbabilities.mp7_pooled_samples_alldata_CDR3_with_singles_67773.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_samples_alldata_CDR3_with_singles/RAxML_marginalAncestralStates.mp7_pooled_samples_alldata_CDR3_with_singles_67773.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_samples_alldata_CDR3_with_singles/RAxML_nodeLabelledRootedTree.mp7_pooled_samples_alldata_CDR3_with_singles_67773.ancestors.out
+
+
+Time for marginal ancestral state computation: 2.620707
+

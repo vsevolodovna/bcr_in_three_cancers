@@ -1,0 +1,161 @@
+
+
+IMPORTANT WARNING: Sequences 1009593 and 1027612 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009593 and 1064406 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009593 and 1003711 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024542 and 1017067 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024542 and 1035927 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1024542 and 1024831 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045821 and 1073155 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1045821 and 1002644 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036088 and 1021703 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036088 and 1066232 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1036088 and 1033773 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028978 and 1013481 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1028978 and 1045810 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009883 and 1021341 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009883 and 1064503 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1009883 and 1013882 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054707 and 1070381 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1054707 and 1052860 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055692 and 1066365 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055692 and 1066272 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1055692 and 1020757 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065869 and 1009727 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065869 and 1072107 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1065869 and 1007448 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1047470 and 1041867 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1047470 and 1054021 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1047470 and 1047212 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1011240 and 1041885 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050501 and 1070446 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1050501 and 1062407 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1021187 and 1003962 are exactly identical
+
+IMPORTANT WARNING
+Found 31 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_top_CDR3_with_singles//mp7_pooled_replicas_top_CDR3_with_singles_27520_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 45 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.61%
+
+RAxML marginal ancestral state computation
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 45
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -f A -s /home/sofyakrasik/Hypermutations/MSA/mp7_pooled_replicas_top_CDR3_with_singles//mp7_pooled_replicas_top_CDR3_with_singles_27520_aln.fasta -t /home/sofyakrasik/Hypermutations/Trees/mp7_pooled_replicas_top_CDR3_with_singles//RAxML_bestTree.mp7_pooled_replicas_top_CDR3_with_singles_27520.phylogeny.out -m GTRGAMMA -p 93 -w /home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_top_CDR3_with_singles/ -n mp7_pooled_replicas_top_CDR3_with_singles_27520.ancestors.out 
+
+
+Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_marginalAncestralProbabilities.mp7_pooled_replicas_top_CDR3_with_singles_27520.ancestors.out
+
+Ancestral Sequences based on Marginal Ancestral Probabilities written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_marginalAncestralStates.mp7_pooled_replicas_top_CDR3_with_singles_27520.ancestors.out
+
+Node-laballed ROOTED tree written to file:
+/home/sofyakrasik/Hypermutations/Ancestors/mp7_pooled_replicas_top_CDR3_with_singles/RAxML_nodeLabelledRootedTree.mp7_pooled_replicas_top_CDR3_with_singles_27520.ancestors.out
+
+
+Time for marginal ancestral state computation: 0.217109
+

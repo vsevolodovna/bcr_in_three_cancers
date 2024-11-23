@@ -1,0 +1,4 @@
+path	basename	cancer	patient	organ
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Samples_nt/mixcr/col_ccp3_LN_PCsort_pooled.clonotypes.IGH.txt	col_ccp3_LN_PCsort_pooled.clonotypes.IGH.txt	col	ccp3	LN
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Samples_nt/mixcr/col_ccp3_tum_PCsort_pooled.clonotypes.IGH.txt	col_ccp3_tum_PCsort_pooled.clonotypes.IGH.txt	col	ccp3	tum
+/home/sofyakrasik/BCR_CDR3_data/5RACE_with_singles/Pooled_Samples_nt/mixcr/col_ccp3_PBMC_PCsort_pooled.clonotypes.IGH.txt	col_ccp3_PBMC_PCsort_pooled.clonotypes.IGH.txt	col	ccp3	PBMC

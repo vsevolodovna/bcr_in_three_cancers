@@ -1,0 +1,118 @@
+
+
+IMPORTANT WARNING: Sequences 1033504 and 1013888 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1033504 and 1029935 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1018224 and 1000585 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019875 and 1014267 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019875 and 1005757 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1015022 and 1022539 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1031972 and 1004567 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023297 and 1032213 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1023297 and 1018069 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1014977 and 1018207 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008027 and 1003588 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1008027 and 1036500 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1019459 and 1029571 are exactly identical
+
+IMPORTANT WARNING
+Found 13 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_top_CDR3_with_singles//ccp2_pooled_samples_top_CDR3_with_singles_3413_aln.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 23 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.79%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 23
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/home/sofyakrasik/.conda-envs/conda-python3/bin/raxmlHPC -s /home/sofyakrasik/Hypermutations/MSA/ccp2_pooled_samples_top_CDR3_with_singles//ccp2_pooled_samples_top_CDR3_with_singles_3413_aln.fasta -n ccp2_pooled_samples_top_CDR3_with_singles_3413.phylogeny.out -m GTRGAMMA -o Outgroup -p 93 -w /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/ 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.194 0.234 0.330 0.241 
+
+Inference[0]: Time 0.341563 GAMMA-based likelihood -200.116524, best rearrangement setting 10
+alpha[0]: 0.284624 rates[0] ac ag at cg ct gt: 27403.101426 18961.786600 19181.181452 11719.434008 21110.534128 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -200.082525 tree written to file /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_result.ccp2_pooled_samples_top_CDR3_with_singles_3413.phylogeny.out
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -200.082525 .... 
+
+Final GAMMA-based Score of best tree -200.082525
+
+Program execution info written to /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_info.ccp2_pooled_samples_top_CDR3_with_singles_3413.phylogeny.out
+Best-scoring ML tree written to: /home/sofyakrasik/Hypermutations/Trees/ccp2_pooled_samples_top_CDR3_with_singles/RAxML_bestTree.ccp2_pooled_samples_top_CDR3_with_singles_3413.phylogeny.out
+
+Overall execution time: 0.490258 secs or 0.000136 hours or 0.000006 days
+
