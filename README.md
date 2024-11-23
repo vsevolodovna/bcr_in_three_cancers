@@ -8,35 +8,66 @@ The following are the code used to produce figures and the corresponding data:
 Fig 1B replicates Scatterplots.ipynb, BCR_CDR3_data/5RACE/All_data_filtered/
 
 Fig 1B fragments Scatterplots.ipynb, BCR_CDR3_data/5RACE/Pooled_Replicas/mixcr/
+
 Fig 2A Pipelines/Correlation_plot_attempt.ipynb, BCR_CDR3_data/5RACE/Pooled_Samples_aa/mixcr/
+
 Fig 2B bulk_vs_PCsort.ipynb, PwDistances/ (calculated from BCR_CDR3_data/5RACE/Top_for_patient/Pooled_Replicas/VDJ/)
+
 Fig 2C bulk_vs_PCsort.ipynb, BCR_CDR3_data/5RACE/IsotypeComposition/
+
 Fig 3A Overlap_comparison_all_isotypes.ipynb, PwDistances (calculated from BCR_CDR3_data/5RACE/Pooled_Samples_aa/VDJ/)
+
 Fig 3C Norm_SW_clonality.ipynb, DiversityStats (calculated from BCR_CDR3_data/5RACE/All_data_filtered/)
+
 Fig 3D Norm_SW_clonality.ipynb, DiversityStats (calculated from BCR_CDR3_data/5RACE/All_data_filtered/)
+
 Fig 3E Overlap_by_isotypes.ipynb, PwDistances (calculated from  /home/sofyakrasik/BCR_CDR3_data/5RACE/Pooled_Samples_aa/VDJ/)
+
 Fig 3F Overlap_by_isotypes.ipynb, PwDistances (calculated from  /home/sofyakrasik/BCR_CDR3_data/5RACE/Pooled_Samples_aa/VDJ/)
+
 Fig 3G Isotype_correlation.ipynb, BCR_CDR3_data/5RACE/All_data_filtered/
+
 Fig 3H Isotype_correlation.ipynb, BCR_CDR3_data/5RACE/All_data_filtered/
+
 Fig 4A CDR3_length_comparison.ipynb, BCR_CDR3_data/5RACE/Pooled_Replicas_aa/VDJ/
+
 Fig 4B CDR3_length_comparison.ipynb, BCR_CDR3_data/5RACE/Pooled_Replicas_aa/VDJ/
+
 Fig 4C AA_R_heatmap.ipynb, BCR_CDR3_data/5RACE/AminoAcidPropertiesStats/Pooled_Replicas/
+
 Fig 4D AA_R_heatmap.ipynb, BCR_CDR3_data/5RACE/AminoAcidPropertiesStats/Pooled_Replicas/
+
 Fig 4E Number_of_SHM.ipynb, Hypermutations/ChangeOut/
+
 Fig 5B Cancer_Triangle_Plot.ipynb, Hypermutations/ChangeOut/
+
 Fig 5C Cancer_Triangle_Plot.ipynb, Hypermutations/ChangeOut/
+
 Fig 5D Cancer_Triangle_Plot.ipynb, Hypermutations/ChangeOut/
+
 Fig 6A Heterogeneity_quantified.ipynb, PwDistances/SeparateReplicas/
+
 Fig 6C Heterogeneity_triangles_new.ipynb, Hypermutations/ChangeOut/
+
 Fig 6D Pipeline_Working.ipynb (plotting features may vary a lot on size, shape, colour etc.), metadata example is in Hypermutations/Metadata/
+
 Fig 7A Heterogeneity_quantified.ipynb, PwDistances/SeparateReplicas_with_singles/
+
 Fig 7B Heterogeneity_triangles_new.ipynb, Hypermutations/ChangeOut/ (CDR3 with singles)
+
 Fig 7D Heterogeneity_triangles_new_with_isotypes.ipynb, Hypermutations/ChangeOut/ (CDR3 with singles)
+
 Fig 8A Expanded_clonotypes_Segment_level.ipynb - to identify expanded clonotypes with EdgeR, result in BCR_CDR3_data/5RACE/Expanded_clonotypes/segment_level (calculated from BCR_CDR3_data/5RACE/Top_for_patient/Separate_Replicas)
+
 Fig 8B Expanded_clonotypes_Segment_level.ipynb - to identify expanded clonotypes with EdgeR, result in BCR_CDR3_data/5RACE/Expanded_clonotypes/segment_level (calculated from BCR_CDR3_data/5RACE/Top_for_patient/Separate_Replicas)
+
 Fig 8D Pipeline_Working.ipynb (plotting features may vary a lot on size, shape, colour etc.), metadata example is in Hypermutations/Metadata/
+
 Fig 8E Pipeline_Working.ipynb (plotting features may vary a lot on size, shape, colour etc.), metadata example is in Hypermutations/Metadata/
+
 Fig 8F Expanded_clonotypes_Tissue_Level_with_Alternative_pooling.ipynb  - to identify expanded clonotypes with EdgeR, results in BCR_CDR3_data/5RACE/Expanded_clonotypes_Alternative (calculated from BCR_CDR3_data/5RACE/Alternative_Replicas_Pooling_aa/)
+
+
 
 Clonotype sharing visualisations were created manually using Cytoscape.
 
